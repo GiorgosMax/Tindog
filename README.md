@@ -1,2 +1,1 @@
-# Tindog
-Tindog, the best matches for your dogs!!!
+TinDog Starting Files
